@@ -1,0 +1,29 @@
+
+  body{
+    background-color: #dfd3c3;
+    font-style: normal;
+    font-family: sans-serif;
+  }
+  hr{
+    color: grey;
+    width:30%;
+    height: 0;
+    border-style: dotted none none none;
+    border-width:thick;
+    border-spacing: inherit;
+  }
+  .Heading{
+    font-family: fantasy;
+  }
+  #site{
+    text-decoration: none;
+  }
+  #site:hover{
+    text-decoration: underline;
+  }
+
+  .Hobbies{
+    background-color: #c7b198;
+    border-style:solid;
+    border-radius: 3%;
+  }
