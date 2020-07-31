@@ -3,6 +3,7 @@
     background-color: #dfd3c3;
     font-style: normal;
     font-family: sans-serif;
+    color: #5e6f64;
   }
   hr{
     color: grey;
@@ -14,6 +15,7 @@
   }
   .Heading{
     font-family: fantasy;
+    color: #5e6f64;
   }
   #site{
     text-decoration: none;
